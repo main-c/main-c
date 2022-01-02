@@ -7,6 +7,8 @@
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=main-c&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
