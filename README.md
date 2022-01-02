@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=main-c&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=main-c&show_icons=true&theme=buefylangs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
