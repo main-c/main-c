@@ -17,6 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=main-c&show_icons=true&theme=buefylangs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Dynamic Quotes 📜:
+![Quote](https://github-readme-quotes.herokuapp.com/quote?font=Gabrielle)
+
 <!--
 **main-c/main-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
