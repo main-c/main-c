@@ -18,11 +18,8 @@
    <a href="https://twitter.com/yannikkadjie" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+  <a href="https://zouktil.com/fr/@main.c/" target="blank"><img align="center"
+      src=https://github.com/main-c/main-c/blob/main/index.png"
       alt="adampithewan" height="30" width="40" /></a>
 
 </p>
