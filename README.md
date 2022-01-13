@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hey there, I'm Avinash<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<h3 align="center">AI Enthusiast, Open-source Contributor and Life-Long Learner</h3>
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
