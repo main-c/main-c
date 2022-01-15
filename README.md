@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 <br>
-<h1>Statistical Data :-</h3>
+<h3>Statistical Data :-</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=main-c&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
