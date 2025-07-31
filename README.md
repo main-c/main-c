@@ -60,11 +60,11 @@ class YannikKadjie:
 
 ## 🎯 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 🏘️ Real Estate Search Platform
 
-- **Tech Stack:** Python, Django, Flutter, PostgreSQL
-- **Features:** Complete e-commerce solution with mobile app
-- **Impact:** Full-stack development with RESTful APIs
+- **Tech Stack:** Python, Elasticsearch, Web Crawlers
+- **Features:** Property search engine with intelligent indexing system
+- **Impact:** Supporting 1,000+ active users for property discovery
 
 ### 🏫 Educational ERP System
 
