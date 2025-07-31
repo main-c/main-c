@@ -109,7 +109,6 @@ class YannikKadjie:
 💬 **Open to opportunities and collaborations!**
 
 📧 **Email:** yannik.kadjie@gmail.com
- 📱 **Phone:** +237 656 201 956
  🌍 **Location:** Yaoundé, Cameroon
 
 ------
